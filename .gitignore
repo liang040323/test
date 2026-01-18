@@ -1,0 +1,35 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build directories
+target/
+build/
+out/
+bin/
+
+# Log files
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
